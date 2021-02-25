@@ -1,6 +1,6 @@
 {
   "name": "@dojot/iotagent-nodejs",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Base iotagent functionality for dojot",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -42,7 +42,7 @@
     }
   ],
   "dependencies": {
-    "@dojot/dojot-module": "^0.1.1",
+    "@dojot/dojot-module": "^0.1.2",
     "@dojot/dojot-module-logger": "^0.1.0",
     "axios": "^0.17.1",
     "js-base64": "^2.3.2",
