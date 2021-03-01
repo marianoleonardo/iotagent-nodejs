@@ -44,7 +44,7 @@
   "dependencies": {
     "@dojot/dojot-module": "^0.1.2",
     "@dojot/dojot-module-logger": "^0.1.0",
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "js-base64": "^2.3.2",
     "uuid": "^3.2.1"
   },
