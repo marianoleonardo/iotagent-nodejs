@@ -2,6 +2,7 @@ declare module '@dojot/iotagent-nodejs' {
   export class IoTAgent {
     constructor(config?: any);
     init(): Promise<any>;;
+    terminate(): Promise<any>;;
     getDevice(deviceid: string, tenant: string): Promise<any>;
     checkCompleteMetaFields(deviceid: string, tenant: string, metadata: any): any;
     updateAttrs(deviceid: string, tenant: string, attrs: any, metadata: any, key?: string | null): void;
