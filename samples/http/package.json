@@ -15,7 +15,7 @@
     }
   ],
   "dependencies": {
-    "@dojot/dojot-module": "0.0.1-alpha.1",
+    "@dojot/dojot-module": "0.1.0",
     "dojot-iotagent": "file:../..",
     "express": "^4.16.2",
     "iotagent-lib": "file:../.."
